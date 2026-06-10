@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+   background-image: linear-gradient(#F7E7CE,#F0D8C1);
+   background-attachment: fixed;
+}
+
+#primeiro {
+    font-family: cursive;
+    text-align: center;
+    padding-bottom: 23px;
+    font-size: xx-large;
+}
+
+p {
+    margin-left: 15px;
+    font-family: sans-serif;
+    background-color: #c42d0b7e;
+    margin: 20px;
+    border-radius: 20px;
+    text-align: left;
+    width: 500px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #F2D544;
+    border-radius: 30px;
+    width: max-content;
+}
+
